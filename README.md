@@ -118,13 +118,6 @@ Muse 2 (Mind Monitor, OSC /muse/eeg @256Hz) → [oscin1] → [rename1] → [VA_I
 Full node-by-node wiring, parameters, and troubleshooting:
 [`va_prediction_model/touchdesigner/README_TD.md`](va_prediction_model/touchdesigner/README_TD.md).
 
-**No TouchDesigner?** Run the standalone OSC inference server instead — it receives
-`/muse/eeg`, runs the same model, and re-broadcasts `/va valence arousal`:
-
-```bash
-python va_prediction_model/osc_server.py
-```
-
 ### Part 3 — Personal calibration (optional, improves expressiveness)
 
 The cross-subject model is conservative (outputs cluster near the middle). Recording a
