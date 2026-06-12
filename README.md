@@ -26,16 +26,11 @@ The project has **two steps you can run independently**:
 2. **Generative art** — feed V/A into an MLP inside TouchDesigner that drives the visual synthesizer.
 
 ## Demo
-<p align="center">
-  <img src="Images/IMG_7787.PNG" width="100" alt="Muse 2 headset" />
-</p>
 
 <p align="center">
-  →
-</p>
-
-<p align="center">
-  <video src="Images/NeuroCanvas\ -\ SD\ 480p.mov" width="100" controls></video>
+  <img src="Images/IMG_7787.PNG" width="160" alt="Muse 2 headset" />
+  <span style="font-size: 32px; padding: 0 16px;">→</span>
+  <a href="Images/NeuroCanvas%20-%20SD%20480p.mov">Watch demo video</a>
 </p>
 ---
 
