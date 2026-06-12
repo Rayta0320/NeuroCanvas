@@ -40,6 +40,7 @@ The project has **two steps you can run independently**:
 **Hardware**
 - Muse 2 EEG headset
 - A phone running [Mind Monitor](https://mind-monitor.com/) (streams Muse EEG over OSC)
+![NeuroCanvas visual output](Images/IMG_7787.png)
 - A computer on the **same WiFi** as the phone
 
 **Software**
