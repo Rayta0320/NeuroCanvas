@@ -2,7 +2,7 @@
 
 NeuroCanvas is a real-time EEG-driven generative art system that transforms brainwave activity into visual expression.
 
-The system receives live EEG data from a Muse headset, extracts signal features related to frequency activity and hemispheric asymmetry, estimates emotional state as valence and arousal, and uses those values to control generative visuals in TouchDesigner.
+The system receives live EEG data from a Muse2 headset, extracts signal features related to frequency activity and hemispheric asymmetry, estimates emotional state as valence and arousal, and uses those values to control generative visuals in TouchDesigner.
 
 Rather than treating EEG as a direct emotion-reading tool, NeuroCanvas uses brainwave patterns as an expressive input for responsive digital artwork.
 
