@@ -50,7 +50,7 @@ The project has **two steps you can run independently**:
 ## Setup
 
 ```bash
-git clone <your-repo-url> NeuroCanvas
+git clone 
 cd NeuroCanvas
 
 python -m venv .venv
