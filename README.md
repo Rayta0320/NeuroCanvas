@@ -20,7 +20,7 @@ Muse 2 EEG Headset
        -> Real-Time Generative Visuals
 ```
 
-The project has **two halves you can run independently**:
+The project has **two steps you can run independently**:
 
 1. **V/A prediction** — turn 4-channel Muse EEG (`TP9, AF7, AF8, TP10`) into two continuous values, valence and arousal (each 0–1).
 2. **Generative art** — feed V/A into an MLP inside TouchDesigner that drives the visual synthesizer.
