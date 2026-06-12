@@ -1,0 +1,28 @@
+# NeuroCanvas — Python dependencies
+# Install:  pip install -r requirements.txt
+# Versions pinned to the verified TouchDesigner (td-ml) environment.
+
+# PyTorch CPU wheels (used by the art-side MLP via skorch)
+--extra-index-url https://download.pytorch.org/whl/cpu
+
+# --- Core numerics ---
+numpy==2.1.2
+scipy==1.17.1
+
+# --- EEG -> Valence/Arousal model (LightGBM) ---
+lightgbm==4.6.0
+scikit-learn==1.8.0
+joblib==1.5.3
+
+# --- EEG dataset I/O: read NeuroSense BIDS .edf (training / preprocessing only) ---
+pyEDFlib==0.1.42
+
+# --- Real-time OSC (Muse 2 via Mind Monitor) ---
+python-osc==1.10.2
+
+# --- Art-side MLP framework (TouchDesigner TD-ML) ---
+torch==2.10.0
+skorch==1.2.0
+dill==0.4.0
+optree==0.19.0
+umap-learn==0.5.8
