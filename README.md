@@ -43,7 +43,7 @@ The project has **two steps you can run independently**:
 <p align="center">
   <img src="Images/IMG_7787.PNG" width="160" alt="Muse 2 headset" />
   <br />
-  <strong>NeuroCanvas demo, shown at 20x speed</strong>
+  <strong> NeuroCanvas demo, shown at 20x speed</strong>
   <br />
   <em>
     For the full demo at real speed, download
