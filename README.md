@@ -7,6 +7,8 @@ The system receives live EEG from a Muse 2 headset, extracts signal features rel
 Rather than treating EEG as a direct emotion-reading tool, NeuroCanvas uses brainwave patterns as an expressive input for responsive digital artwork.
 
 ![NeuroCanvas visual output](Images/Visual.png)
+![NeuroCanvas TouchDesigner](Images/Screenshot.png)
+
 
 ## Overview
 
