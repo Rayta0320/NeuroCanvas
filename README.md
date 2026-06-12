@@ -27,7 +27,7 @@ The project has **two steps you can run independently**:
 
 ## Demo
 <p align="center">
-  <img src="Images/IMG_7787.PNG" width="400" alt="Muse 2 headset" />
+  <img src="Images/IMG_7787.PNG" width="100" alt="Muse 2 headset" />
 </p>
 
 <p align="center">
@@ -35,7 +35,7 @@ The project has **two steps you can run independently**:
 </p>
 
 <p align="center">
-  <video src="Images/NeuroCanvas%20-%20SD%20480p.mov" width="400" controls></video>
+  <video src="Images/NeuroCanvas%20-%20SD%20480p.mov" width="100" controls></video>
 </p>
 ---
 
