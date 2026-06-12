@@ -25,6 +25,18 @@ The project has **two steps you can run independently**:
 1. **V/A prediction** — turn 4-channel Muse EEG (`TP9, AF7, AF8, TP10`) into two continuous values, valence and arousal (each 0–1).
 2. **Generative art** — feed V/A into an MLP inside TouchDesigner that drives the visual synthesizer.
 
+## Demo
+<p align="center">
+  <img src="Images/IMG_7787.PNG" width="400" alt="Muse 2 headset" />
+</p>
+
+<p align="center">
+  →
+</p>
+
+<p align="center">
+  <video src="Images/NeuroCanvas%20-%20SD%20480p.mov" width="400" controls></video>
+</p>
 ---
 
 ## Requirements
@@ -228,9 +240,13 @@ interaction between the biological signals and digital visual expression — tre
 ## Acknowledgments & licensing
 
 - EEG data: **NeuroSense** dataset (Colafiglio et al., 2024) — used under its Data Use
-- > Colafiglio, T., Lombardi, A., Sorino, P., Brattico, E., Lofù, D., Danese, D.,
+> Colafiglio, T., Lombardi, A., Sorino, P., Brattico, E., Lofù, D., Danese, D.,
 > Di Sciascio, E., Di Noia, T., & Narducci, F. (2024). *NeuroSense: A Novel EEG Dataset
 > Utilizing Low-Cost, Sparse Electrode Devices for Emotion Exploration.* IEEE Access.
   Agreement; not redistributed here.
 - The TouchDesigner ML framework (`scripts/`, `tox/`) is based on **TD-ML** by Joel
-  Schaefer (MIT License). Retain the upstream copyright and license notice.
+  Schaefer (MIT License) for further details check this link <https://github.com/JoEL8129/TD-ML>.
+
+## Project Note
+
+NeuroCanvas is a non-commercial project with no financial interest. It was created for fun, creative experimentation, and personal learning.
