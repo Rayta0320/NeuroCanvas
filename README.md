@@ -223,8 +223,7 @@ PyTorch / skorch · Muse 2 / Mind Monitor · TouchDesigner
 
 NeuroCanvas explores how physiological signals can become part of an artistic feedback
 system. The goal is not to perfectly classify emotions, but to create a meaningful
-interaction between the nervous system and digital visual expression — treating EEG as a
-living input signal: noisy, personal, unstable, and expressive.
+interaction between the biological signals and digital visual expression — treating EEG as an input signal.
 
 ## Acknowledgments & licensing
 
