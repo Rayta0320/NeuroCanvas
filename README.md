@@ -104,7 +104,7 @@ The model is loaded **inside TouchDesigner** (no OSC round-trip) and emits two C
 channels, `valence` and `arousal` (each 0–1), at 60 fps.
 
 ```text
-Muse 2 ─(Mind Monitor, OSC /muse/eeg @256Hz)→ [oscin1] → [rename1] → [VA_Infer] → [null_va] → visuals
+Muse 2 (Mind Monitor, OSC /muse/eeg @256Hz) → [oscin1] → [rename1] → [VA_Infer] → [null_va] → visuals
 ```
 
 1. In Mind Monitor, set the **Target IP** to your computer, **Port 5005**, and enable
