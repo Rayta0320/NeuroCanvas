@@ -30,6 +30,13 @@ The project has **two steps you can run independently**:
 ## Demo
 <p align="center">
   <img src="Images/Neurocanvas_demo.gif" width="600" alt="NeuroCanvas demo" />
+  <br />
+  <strong> NeuroCanvas demo, shown at 20x speed</strong>
+  <br />
+  <em>
+    For the full demo at real speed, download
+    <a href="https://github.com/Rayta0320/NeuroCanvas/raw/main/Images/Neurocanvas_full_demo.mp4">Neurocanvas_full_demo.mp4</a>.
+  </em>
 </p>
 
 ---
@@ -42,13 +49,6 @@ The project has **two steps you can run independently**:
 
 <p align="center">
   <img src="Images/IMG_7787.PNG" width="160" alt="Muse 2 headset" />
-  <br />
-  <strong> NeuroCanvas demo, shown at 20x speed</strong>
-  <br />
-  <em>
-    For the full demo at real speed, download
-    <a href="https://github.com/Rayta0320/NeuroCanvas/raw/main/Images/Neurocanvas_full_demo.mp4">Neurocanvas_full_demo.mp4</a>.
-  </em>
 </p>
 
 - A computer on the **same WiFi** as the phone
