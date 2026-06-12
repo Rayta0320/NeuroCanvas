@@ -252,7 +252,7 @@ interaction between the biological signals and digital visual expression — tre
 > Utilizing Low-Cost, Sparse Electrode Devices for Emotion Exploration.* IEEE Access.
   Agreement; not redistributed here.
 - The TouchDesigner ML framework (`scripts/`, `tox/`) is based on **TD-ML** by Joel
-  Schaefer (MIT License) for further details check this link <https://github.com/JoEL8129/TD-ML>.
+  Schaefer (MIT License). For further details, check this link <https://github.com/JoEL8129/TD-ML>.
 
 ## Project Note
 
