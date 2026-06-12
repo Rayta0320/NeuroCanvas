@@ -29,7 +29,7 @@ The project has **two steps you can run independently**:
 
 ## Demo
 <p align="center">
-  <img src="Images/Neurocanvas_full_demo.gif" width="600" alt="NeuroCanvas demo" />
+  <img src="Images/Neurocanvas_demo.gif" width="600" alt="NeuroCanvas demo" />
 </p>
 ---
 
