@@ -78,11 +78,6 @@ EEG and its derivatives.
   the `.gitignore` line that excludes it.
 - DEAP / DREAMER folders are **not used** by the current pipeline and are git-ignored.
 
-When publishing results, cite NeuroSense:
-> Colafiglio, T., Lombardi, A., Sorino, P., Brattico, E., Lofù, D., Danese, D.,
-> Di Sciascio, E., Di Noia, T., & Narducci, F. (2024). *NeuroSense: A Novel EEG Dataset
-> Utilizing Low-Cost, Sparse Electrode Devices for Emotion Exploration.* IEEE Access.
-
 ---
 
 ## Usage
@@ -241,6 +236,9 @@ living input signal: noisy, personal, unstable, and expressive.
 ## Acknowledgments & licensing
 
 - EEG data: **NeuroSense** dataset (Colafiglio et al., 2024) — used under its Data Use
+- > Colafiglio, T., Lombardi, A., Sorino, P., Brattico, E., Lofù, D., Danese, D.,
+> Di Sciascio, E., Di Noia, T., & Narducci, F. (2024). *NeuroSense: A Novel EEG Dataset
+> Utilizing Low-Cost, Sparse Electrode Devices for Emotion Exploration.* IEEE Access.
   Agreement; not redistributed here.
 - The TouchDesigner ML framework (`scripts/`, `tox/`) is based on **TD-ML** by Joel
   Schaefer (MIT License). Retain the upstream copyright and license notice.
