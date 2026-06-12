@@ -35,7 +35,7 @@ The project has **two steps you can run independently**:
 </p>
 
 <p align="center">
-  <video src="Images/NeuroCanvas - SD 480p.mov" width="100" controls></video>
+  <video src="Images/NeuroCanvas\ -\ SD\ 480p.mov" width="100" controls></video>
 </p>
 ---
 
