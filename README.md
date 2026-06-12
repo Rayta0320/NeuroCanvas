@@ -30,9 +30,7 @@ The project has **two steps you can run independently**:
 <p align="center">
   <img src="Images/IMG_7787.PNG" width="160" alt="Muse 2 headset" />
   <span style="font-size: 32px; padding: 0 16px;">→</span>
-  <video src="Images/Neurocanvas_full_demo.mp4" width="320" controls>
-    Your browser does not support the video tag.
-  </video>
+  <a href="Images/Neurocanvas_full_demo.mp4">Watch demo video</a>
 </p>
 ---
 
