@@ -166,7 +166,7 @@ Example mappings:
 Extracted from standard EEG bands (Delta 1–4, Theta 4–8, Alpha 8–13, Beta 13–30,
 Gamma 30–45 Hz). Each window becomes a **61-dimensional** vector:
 
-- Differential Entropy (per channel × band)
+- Differential Entropy 
 - Frontal Alpha Asymmetry
 - DASM / RASM hemispheric asymmetry
 - Beta/Alpha and Theta/Beta band ratios
