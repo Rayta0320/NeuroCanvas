@@ -71,7 +71,7 @@ itself is **not redistributed here** — its Data Use Agreement prohibits sharin
 EEG and its derivatives.
 
 - To **retrain from scratch**, request NeuroSense at
-  <https://sisinflab.poliba.it/neurosense-dataset-request/> and unzip it into
+  <https://zenodo.org/records/14003181> and unzip it into
   `va_prediction_model/BIDS/` (BIDS layout, Muse 4-channel `.edf`).
 - The repo ships a pre-trained `va_window_model.joblib` so the TouchDesigner demo runs
   out of the box. If you prefer to publish only the recipe, delete that file and keep
